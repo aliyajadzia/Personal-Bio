@@ -1,5 +1,5 @@
 # Personal Summary
-Hi, I am Aliya Jadzia, currently a Form 5/Grade 11/Senior 2 student in Hong Kong. My dream school is CUHK (the Chinese University of Hong Kong) and I am sure I will succeed (Probably I guess……).
+Hi, I am Aliya Jadzia, currently a pre-Form 6 student in Hong Kong. My dream school is CUHK (the Chinese University of Hong Kong) and I am currently working on it.
 
 ### Language Abilities 
 
