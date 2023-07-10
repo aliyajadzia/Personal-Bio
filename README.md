@@ -14,7 +14,7 @@ Hi, I am Aliya Jadzia, currently a pre-Form 6 student in Hong Kong. My dream sch
 - English
 
 ### My social accounts
-- Mastodon:<a rel=“me” href=“https://mastodon.social/@aliyajadzia”>Aliya Jadzia</a>
+- Mastodon: <a rel=“me” href=“https://mastodon.social/@aliyajadzia”>Aliya Jadzia</a> 
 
 ### Version History
 
