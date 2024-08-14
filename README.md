@@ -1,5 +1,5 @@
 # Personal Summary
-Hi, I am Aliya Jadzia, currently a pre-Form 6 student in Hong Kong. My dream school is CUHK (the Chinese University of Hong Kong) and I am currently working on it.
+Hi, I am Aliya Jadzia, currently a year 1 student at City University of Hong Kong, which currently studying EE broadbase programme.
 
 ### Language Abilities 
 
@@ -9,19 +9,7 @@ Hi, I am Aliya Jadzia, currently a pre-Form 6 student in Hong Kong. My dream sch
 
 ##### Not fluent but still capable of communication
 - Cantonese
-
-##### Only for study or communicate through type
 - English
 
 ### My social accounts
-- Mastodon: <a rel=“me” href=“https://mastodon.social/@aliyajadzia”>Aliya Jadzia</a> 
-
-### Version History
-
-Version 0.0.2
-
-Completed language ability part roughly.
-
-Version 0.0.1
-
-Initial Commitment. Added a brief summary of myself
+- Mastodon: <a rel=“me” href=“https://stelpolva.moe/@aliyajadzia”>Aliya Jadzia</a> 
